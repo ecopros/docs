@@ -11,3 +11,7 @@
 ## Group 1
 
 * [How to join?](group-1/how-to-join.md)
+
+***
+
+* [How we work](how-we-work.md)
