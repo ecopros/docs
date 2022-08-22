@@ -1,3 +1,5 @@
 # Table of contents
 
-* [Page 1](README.md)
+## Introduction
+
+* [What is ecoPros DAO?](README.md)
