@@ -3,15 +3,6 @@
 ## Introduction
 
 * [What is ecoPros DAO?](README.md)
-
-***
-
-* [Mission & Vision](mission-and-vision.md)
-
-## Group 1
-
-* [How to join?](group-1/how-to-join.md)
-
-***
-
-* [How we work](how-we-work.md)
+* [Mission & Vision](introduction/mission-and-vision.md)
+* [How we work](introduction/how-we-work.md)
+* [How to join?](introduction/how-to-join.md)
